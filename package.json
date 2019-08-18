@@ -1,0 +1,21 @@
+{
+  "name": "ts-puppeteer-starter-kit",
+  "version": "1.0.0",
+  "description": "The fuckin' awesome beautiful starter kit",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "P-Chan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "@types/puppeteer": "^1.19.1",
+    "typescript": "^3.5.3"
+  }
+}
